@@ -9,5 +9,6 @@ all my thougths and observations are discussed through the process in the notebo
   <li>Variables 17,14 are the same variable but scaled</li>
   <li>Variables 4,5 are the same variable but shifted</li>
   <li>Variables 19 are the same as the label but they are not the same in the validation set</li>
+   <li>After PCA, we can drop more than 80% of the features and still have >90% of the variance of the data!</li>
   <li>The data is imbalanced</li>
 </ul>
