@@ -3,3 +3,8 @@ Cleaning and Dealing with im-balanced dataset using smote and achieving good res
 
 # Thoughts and observations:
 all my thougths and observations are discussed through the process in the notebook
+
+# Side-note:
+<ul>
+  <li>d</li>
+</ul>
