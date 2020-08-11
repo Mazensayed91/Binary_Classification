@@ -20,7 +20,7 @@ all my thougths and observations are discussed through the process in the notebo
   <li>Getting more insights from the data</li>
 </ul>
 
-# Final Results:
+# Final Results-Using rfc with smote:
 <ul>
   <li>Training set has : F0.5 = 0.9965  Recall = 1  Precision = 1  Accuarcy = 1</li>
   <li>Validation set has : F0.5 = 0.9745  Recall = 0.98  Precision = 0.97  Accuarcy = 0.97</li>
