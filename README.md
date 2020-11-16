@@ -16,7 +16,7 @@ all my thougths and observations are discussed through the process in the notebo
 # To-Do
 
 <ul>
-  <li>Adding microservice for prediction task (currently learning how microservices work)</li>
+  <li>Adding microservice for prediction task</li>
   <li>Getting more insights from the data</li>
 </ul>
 
